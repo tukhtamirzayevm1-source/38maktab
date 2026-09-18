@@ -1,0 +1,6 @@
+{
+  "name": "38-MAKTAB",
+  "description": "Comprehensive modern School Management System for 38-Maktab with multi-role access (Admin, Teacher, Student), 3 languages (UZ, RU, EN), dark/light mode, attendance, grades, homework, exams, timetable, and interactive chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
